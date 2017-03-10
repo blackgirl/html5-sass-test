@@ -1,0 +1,49 @@
+@import '../base/typography';
+@import '../base/query';
+footer {
+
+	.copyright {
+	    width: 100%;
+	    text-align: center;
+		.social-icons {
+			margin: 0;
+			padding: 0;
+			li {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			    display: inline-block;
+				a {
+				    display: inline-block;
+					color: $brand-primary;
+					padding-left: 10px;
+					padding-right: 10px;
+					i {
+						font-size: 20px;
+						&.icon-facebook:before {
+						    content: "\e05d";
+						}
+						&.icon-twitter:before {
+						    content: "\e05e";
+						}
+						&.icon-googleplus:before {
+						    content: "\e05f";
+						}
+						&.icon-rss:before {
+						    content: "\e060";
+						}
+						&.icon-tumblr:before {
+						    content: "\e061";
+						}
+						&.icon-linkedin:before {
+						    content: "\e062";
+						}
+						&.icon-dribbble:before {
+						    content: "\e063";
+						}
+					}
+				}
+			}
+		}
+	}
+}

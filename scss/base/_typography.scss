@@ -1,0 +1,39 @@
+
+$font-primary: 'Inconsolata', Arial, sans-serif;
+
+$brand-primary: #DD356E !default;
+$brand-secondary: #FEE856 !default;
+$brand-tertiary: #2A528A !default;
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?srf3rx');
+	src:url('fonts/icomoon.eot?srf3rx#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?srf3rx') format('truetype'),
+		url('fonts/icomoon.woff?srf3rx') format('woff'),
+		url('fonts/icomoon.svg?srf3rx#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@mixin icomoon() {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	color: $brand-primary;
+    text-decoration: none;
+	&:hover, &:active, &:focus {
+		color: $brand-primary;
+		outline: none;
+		text-decoration: none;
+	}
+}

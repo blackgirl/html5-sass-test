@@ -1,0 +1,75 @@
+@import '../base/typography';
+@import '../base/query';
+nav {
+    margin: 0 50px;
+    .top-nav {
+    	padding: 30px 0;
+    	@include clearfix();
+    	#logo {
+	    	width: 20%;
+		    float: left;
+		    font-size: 32px;
+		    font-weight: 700;
+		    text-transform: uppercase;
+		    font-family: $font-primary;
+		    a {
+		    	padding: 5px 10px;
+			    color: #000;
+			    span {
+		    	    color: #DD356E;
+			    }
+		    }
+	    }
+	    #menu {
+		    width: 80%;
+		    float: left;
+		    text-align: right;
+	    	ul {
+			    padding: 0;
+			    margin: 5px 0 0 0;
+	    		li {
+				    padding: 0;
+				    margin: 0;
+				    list-style: none;
+				    display: inline;
+				    a {
+						font-size: 18px;
+						padding: 30px 15px;
+						color: rgba(0,0,0,.7);
+						&:hover,&:focus, &:active {
+							color: rgba(0,0,0,1);
+						}
+					}
+				    &.btn-cta {
+						a {
+							padding: 30px 0px !important;
+							color: #fff;
+							span {
+							    background: #dd356e;
+							    padding: 4px 10px;
+						        border-radius: 100px;
+							}
+						}
+					}
+				    &.active {
+						> a {
+						    position: relative;
+							&:after {
+								position: absolute;
+							    bottom: 25px;
+							    left: 0;
+							    right: 0;
+							    content: '';
+							    width: 30px;
+							    height: 2px;
+							    background: #DD356E;
+							    margin: 0 auto;
+							}
+
+						}
+					}
+	    		}
+	    	}
+	    }
+	}
+}

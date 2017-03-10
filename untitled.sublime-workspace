@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 581,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alenachornaya/Desktop/list-text.html",
+		"/Users/alenachornaya/WEB/front-end-skills/css/main.css",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/view/template/report/customer_online.tpl",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/system/library/config.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/setting/setting.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/setting/store.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/report/customer_order.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/config.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/config.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/language/russian/checkout/checkout.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/language/russian/account/order.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/template/checkout/checkout.tpl",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/template/common/column_left.tpl",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/template/module/filter.tpl",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/template/common/column_right.tpl",
+		"/Users/alenachornaya/Downloads/convertcsv (3).sql",
+		"/Users/alenachornaya/Desktop/ALTEP.UA/sitesucker2/altep.ua/wp-content/cache/min/1/fc49b5f8675674d5c511e64876f60521.css",
+		"/Users/alenachornaya/Desktop/ALTEP.UA/sitesucker3/connect.facebook.net/en_US/fbevents.js",
+		"/Users/alenachornaya/Desktop/ALTEP.UA/sitesucker3/connect.facebook.net/en_US/fbevents.plugins.identity.js",
+		"/Users/alenachornaya/Desktop/ALTEP.UA/sitesucker3/www.gstatic.com/wcm/impl-1_23.js",
+		"/Users/alenachornaya/Desktop/front-end-skills.html",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/javascript/callback/sender.js",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/javascript/callback/sender3.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/javascript/callback/sender2.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/javascript/callback/sender.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/catalog/category.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/catalog/option.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/catalog/manufacturer.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/admin/controller/catalog/attribute_group.php",
+		"/private/var/folders/38/4z4xb_3j0rl3z6k8c__38bz80000gn/T/dcd469a7-ad7e-440b-b73a-7720db4dd282/www/benzodom.com.ua/catalog/view/theme/default/stylesheet/deco.css",
+		"/Users/alenachornaya/Desktop/ttt.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/persons/_posts/2016-12-20-my-karta-interesov-golomshtoka.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/persons/_posts/2016-12-22-my-result-style-info-usvoenie.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/persons/_posts/2016-12-21-my-result-opros-shmisheka.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-05-22-problema-otsutstviya-energii-nakoplenie.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-05-22-test-rodshaxa-pyatno.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-05-22-test-tsveto-zerkalo.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-12-20-frazeology-slovar-emo-and-feel.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/quote/human.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/quote/move.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/quote/friends.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-12-19-stiven-kovi-7-navikov-visokoeffektivnih-ludey.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-12-19-napravlennost-lichnosti.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/tags.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-04-28-totem-antitotem.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-06-30-avestiyskaya-astrologiya-znaki-zodiaka.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-06-25-avestiyskaya-astro.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/socio/_posts/2016-05-08-archetip-weduniya.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/socio/_posts/2016-06-05-introvert-extravert-5-sec-test.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/socio/_posts/2016-06-06-ya-introvert-i-gorzjus-etim.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-24-ascendent-v-vesh-moy.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-24-ascendent-v-rake-danya.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-23-zachatie-calendar-god-nadya.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-24-ascendent-v-deve-zhenya.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-04-24-avestiyskaya-astrologiya.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-04-26-videlennie-gradusi-zodiaka.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/socio/_posts/2016-06-20-archetipi-muzhchin-basic.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/socio/_posts/2016-08-01-muzhskoy-vampirizm.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-04-05-kakoy-ti-takie-i-otnosheniya.md",
+		"/Users/alenachornaya/WEB/jekyll-blog/psycho/_posts/2016-04-26-simvoldrama-witch.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-07-05-trata-poviwenie-energii.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-07-04-transformacia-stradania-gurdjiev.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-07-04-tri-sili-ekonomiya-gurdjiev.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-zerkalo-ba-gua.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/quote/death.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/css/tags.css",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-04-26-budhism-basic.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-05-22-karma-reinkarnaciya-pereselenie-dush.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-05-22-tretiy-glaz-wiwkovidnaya-zheleza.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-05-29-bhagavat-tita-gandi.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-06-20-chislo-zverya-666.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-05-bogi-dr-egypt.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-05-bogi-religion-zoroastrizm.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-07-duhovnost-evolution.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-07-god-alive.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-07-vera-budushego.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-17-izumrudnaya-strizhal.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-25-twenty-voprosov-o-gnosticizme.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-how-to-be-a-human-part2.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-how-to-be-a-human.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-pritcha-o-smisle-zhizni.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-symbols-of-icons.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-09-ma-gu.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-10-16-eleven-satanic-rules.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-07-29-rak-prichini-dushevnie.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-08-03-types-of-eye-rainbow.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-09-05-zhabri-lyudey-parashitovidnie-zhelezi.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/art/_posts/2016-06-06-kimika-yosida.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/art/_posts/2016-09-03-post-modernizn-kino-basic.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-04-26-ability-to-love.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/_posts/2016-04-25-one-soul-two-body.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-24-fourteen-day-data-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-24-nine-day-data-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-23-krajon-xarakteristika-prednaznachenie-vesi-novyj-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-23-krajon-xarakteristika-prednaznachenie-scorpio-novyj-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-23-krajon-xarakteristika-prednaznachenie-ryb-novyj-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-05-23-krajon-xarakteristika-prednaznachenie-rak-novyj-goroskop.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/astro/_posts/2016-04-28-lichniy-god.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/numerology/_posts/2016-06-19-planeta-pokrovitel-goda.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-05-30-istina-lubov-krasota.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-09-25-vera-poterya-antichrist-1666.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-principi-of-reyki.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-09-27-zhelezi-palienko.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-09-03-chto-nujno-mozgu.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-08-03-nadi-kanali.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-07-01-circular-energy-human-body.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-07-01-bio-energy-human-basic.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-troica-math-gipoteza.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-trigrammi-ba-gua.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-sovmestimost-elementov-stihiy.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-simvolicheskie-animals-fen-shui.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-psycho-lichnost-fen-shui.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-oberegi-zaryad-serebro.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-kartina-mira-piramida-magic-quadrat.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-intuitivniy-fen-shui.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-in-yan-fen-shuy.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-chislo-gua-six.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-chislo-gua-one.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-chislo-gua-nine.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/energy/_posts/2016-06-30-chisla-ba-gua.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/med/_posts/2016-07-30-china-med-basic.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-07-25-hooponopono.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/numerology/_posts/2016-07-07-numerology-23.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/numerology/_posts/2016-07-07-numerology-17.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/numerology/_posts/2016-07-07-numerology-42.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/numerology/_posts/2016-07-07-numerology-affirmation.html",
+		"/Users/alenachornaya/WEB/jekyll-blog/school/religions/_posts/2016-06-30-four-blagorodnie-istini.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/alenachornaya/WEB/jekyll-blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compile",
+			"</p>\n	<p>",
+			"<li><p>",
+			"</p>\n	</li>",
+			"/span>",
+			"span class=\"code\"",
+			"class=\"color\"",
+			" class=\"colorboxClick cboxElement\"",
+			"<li>\n",
+			"/p>\n\n<p>",
+			"<span class=\"numb-ol\">",
+			"</p>",
+			"&nbsp;",
+			" class=\"property-title \"",
+			" class=\"class ml20\"",
+			" class=\"class ml40\"",
+			" class=\"ml20\"",
+			"<p>\n        <span>",
+			"<p>",
+			"<span>",
+			"<p>  <span>",
+			" ",
+			" class=\"code-desc\"",
+			" class=\"property\"",
+			" class=\"class\"",
+			" class=\"property-title\"",
+			" class=\"property ml20\"",
+			"<a href=\"http://sass-lessons.ru",
+			"src=\"/images",
+			"-small.png",
+			"href=\"/images",
+			"/images/",
+			"div",
+			"ul",
+			"<hr><li>",
+			"</p>",
+			"<p>",
+			"css",
+			"Литература",
+			"article {",
+			"ol",
+			"h4 name=",
+			">name=\"",
+			"</h3>",
+			"<h3>",
+			"twenty-five",
+			"</h3>",
+			"<h3>",
+			"<h4>",
+			">name=\"",
+			"article>",
+			"<div class=\"text\">",
+			"article>",
+			"<div class=\"text\">",
+			"article",
+			"<div class=\"text\">",
+			"</article>",
+			"<div class=\"text\">",
+			"</div>",
+			"</article>",
+			" class=\"-negative\"",
+			">\n\n<",
+			"article",
+			"<div class=\"text\">",
+			"Литература",
+			"Дополнительно",
+			"чтен",
+			"чита",
+			"чит",
+			"чтен",
+			"</ul>\n<li>",
+			"</li>\n	<ul>",
+			"install",
+			"начать и",
+			"</li><ul>",
+			"h1",
+			"<h2>",
+			"<h3>",
+			"<h2>",
+			"<h1>",
+			"h2",
+			"id=",
+			"id",
+			"><",
+			"class=\"article--title\"",
+			"h2><",
+			"</h2><h2",
+			"<article>",
+			"<header class=\"article--header\">",
+			"<article id=",
+			">\n\n<",
+			"\n\n",
+			"\n\n\n\n\n\n\n\n",
+			"</article>",
+			"</header>",
+			"\n	<ul>",
+			"</li></ul>",
+			"</li>\n	",
+			"</li>",
+			"<li>",
+			"; }",
+			"p",
+			"conte",
+			"nav",
+			"aside",
+			"article",
+			">div.text",
+			"</art",
+			" class=\"highlighter-rouge\"",
+			"section",
+			"figure></div>",
+			"<div data-syntax=\"",
+			"</div>",
+			"ol",
+			"h2",
+			"</div>\n</article>",
+			"<div class=\"text\">",
+			"h4",
+			"h1",
+			"<small>Правила и руководства оформления, форматирования HTML, СSS и JavaScript кода.</small",
+			"nav",
+			"</ol></li>",
+			"/li><li>",
+			"444",
+			"highlight",
+			"figure",
+			"sode",
+			"</pre>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/main.scss",
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true
+}
